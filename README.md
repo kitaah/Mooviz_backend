@@ -1,7 +1,7 @@
 ﻿
 # Mooviz 🎞️
 
-L'application Mooviz permet de consulter une bibliothèque de films, mais également d'ajouter, de mettre à jour les informations d'un film et de supprimer un film existant.
+L'application Mooviz permet à tout utilisateur de consulter une bibliothèque de films, mais également d'ajouter, de mettre à jour les informations d'un film et de supprimer un film existant.
 
 ## Lien
 
